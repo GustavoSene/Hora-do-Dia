@@ -1,0 +1,43 @@
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+
+}
+
+
+h2 { position: relative;
+text-align: center; 
+top: 0;
+}
+
+
+
+#container {
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    height: 350px;
+    border-radius: 20px;
+    position: relative;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+#img1 {
+    display: inline-block;
+    width:250px;
+    height: 250px;
+    border-radius: 100%;
+    position: absolute;
+    left: 25%;
+    top: 20%;
+
+
+
+}
+
